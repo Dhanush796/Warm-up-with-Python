@@ -1,0 +1,72 @@
+1.To get the Python version you are using, you can use the following command in the command line:
+python --version
+
+2.To write a Python script that prints "Hello Python" on the screen directly in the command line, you can use the following code:
+python
+print("Hello Python")
+
+
+3.To write a Python script and execute it from the command line, follow these steps:
+Create a new file with a .py extension (e.g., script.py) and open it in a text editor.
+Write your Python code in the file, for example:
+python
+
+print("Hello from a Python script file!")
+Save the file.
+Open the command line and navigate to the directory where the file is saved.
+Execute the script using the following command:
+
+
+python script.py
+Replace script.py with the actual name of your file.
+
+To print "Hello Python" on the screen using Visual Studio Code, you can create a new Python file and add the following code:
+python
+Copy code
+print("Hello Python")
+Save the file with a .py extension and click the "Run" button in Visual Studio Code to execute the script.
+
+To print "Hello" on the first line and "Python" on the second line, you can use the following script:
+python
+Copy code
+print("Hello")
+print("Python")
+To print "MySirG" on the screen, you can use the following script:
+python
+Copy code
+print("MySirG")
+To print "Teacher's Day" on the screen, you can use the following script:
+python
+Copy code
+print("Teacher's Day")
+To print the value of a variable containing your name, you can use the following script:
+python
+Copy code
+name = "Your Name"
+print(name)
+Replace "Your Name" with your actual name.
+
+To create variables to store your name, age, qualification, years of experience, and print them, you can use the following script:
+python
+Copy code
+name = "Your Name"
+age = 25
+qualification = "Your Qualification"
+years_of_experience = 5
+
+print("Name:", name)
+print("Age:", age)
+print("Qualification:", qualification)
+print("Years of Experience:", years_of_experience)
+Replace the placeholders with your actual information.
+
+To print the values of three variables, each in a new line, containing integer values, you can use the following script:
+python
+Copy code
+variable1 = 10
+variable2 = 20
+variable3 = 30
+
+print(variable1)
+print(variable2)
+print(variable3)
